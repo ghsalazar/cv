@@ -1,5 +1,44 @@
 # Gaston Hugo Salazar Silva
 
+## Formación
+
+**CIC-IPN**, Ciudad de México
+--- *Doctorado en Ciencias de la Computación*  
+AGOSTO 2009 - JUNIO 2013  
+Mi tesis fue sobre el modelado y control de un manipulador móvil
+en el espacio de la tarea. Desarrollé un algoritmo para obtener el
+comportamiento dinámico de dicho manipulador, por medio de una extensión
+al algoritmo de Newton-Euler. También programé los controladores
+para el manipulador móvil, que incluyó la interfaz con los sensores
+y actuadores a través de una red de cómputo.
+
+**Centro de Investigación y Estudios Avanzado del IPN**,
+Ciudad de México---*Maestría en Ciencias en Control Automático*  
+AGOSTO 1997--MAYO 2002  
+Me gradué con la tesis “CN4SID: Un algoritmo de identificación
+subespacial para modelos continuos”, donde desarrollé dicho algoritmo
+para obtener modelos en el espacio del estado de sistemas continuos por
+métodos estadísticos; dentro del trabajo de tesis también programé
+un sistema de control servo-visual para una plataforma  mesa-esfera.
+
+**Fachhochschule Furtwangen**, Schwenningen, Alemania
+--- *Estancia técnica de alto nivel*  
+DICIEMBRE 1993 - NOVIEMBRE 1995  
+En esta estancia, primeramente llevé un curso intensivo
+del idioma alemán por ocho meses, en diferentes ciudades de
+Alemania. Posteriormente, tomé varios cursos y participé en un proyecto
+de investigación en la Universidad de Ciencias Aplicadas de Furtwangen
+(Fachhochschule Furtwangen), Campus Schwenningen. Parte de mi labor en
+la Universidad fue la puesta en marcha de una red con el bus H-1 en una
+celda de manufactura flexible. Finalmente, desarrollé una práctica
+profesional por nueve meses en la instalaciones de Siemens, en Karlsruhe.
+
+Instituto Tecnológico de Mexicali, Mexicali, BC — Ingeniería Electrónica
+AGOSTO 1988 - DICIEMBRE 1992
+Me especialicé en sistemas digitales. Me titulé con el proyecto “Expendio
+automático de agua”, en diciembre de 1993. Participé en varias actividades
+estudiantiles y competencias. Formé parte del club de atletismo. 
+
 ## Experiencia profesional
 
 **UPIITA-IPN**, Ciudad de México--—*Docente de Tiempo Completo*  
@@ -64,44 +103,6 @@ JUNIO 1992 - DICIEMBRE 1993
 Mis principales tareas era el mantenimiento electrónico de los sistemas de
 automatización. También participé en la instalación de una línea de
 embotellado en la planta.
-
-## Formación
-
-CIC-IPN, Ciudad de México — Doctorado en Ciencias de la Computación
-AGOSTO 2009 - JUNIO 2013
-Mi tesis fue sobre el modelado y control de un manipulador móvil en el
-espacio de la tarea. Desarrollé un algoritmo para obtener el comportamiento
-dinámico de dicho manipulador, por medio de una extensión al algoritmo de
-Newton-Euler. También programé los controladores para el manipulador móvil,
-que incluyó la interfaz con los sensores y actuadores a través de una red
-de cómputo.
-
-Centro de Investigación y Estudios Avanzado del IPN, Ciudad de México —
-Maestría en Ciencias en Control Automático
-AGOSTO 1997 - MAYO 2002
-Me gradué con la tesis “CN4SID: Un algoritmo de identificación subespacial
-para modelos continuos”, donde desarrollé dicho algoritmo para obtener
-modelos en el espacio del estado de sistemas continuos por métodos
-estadísticos; dentro del trabajo de tesis también programé un sistema de
-control servo-visual para una plataforma  mesa-esfera.
-
-Fachhochschule Furtwangen, Schwenningen, Alemania — Estancia técnica de
-alto nivel
-DICIEMBRE 1993 - NOVIEMBRE 1995
-En esta estancia, primeramente llevé un curso intensivo del idioma alemán
-por ocho meses, en diferentes ciudades de Alemania. Posteriormente, tomé
-varios cursos y participé en un proyecto de investigación en la Universidad
-de Ciencias Aplicadas de Furtwangen (Fachhochschule Furtwangen), Campus
-Schwenningen. Parte de mi labor en la Universidad fue la puesta en marcha
-de una red con el bus H-1 en una celda de manufactura flexible. Finalmente,
-desarrollé una práctica profesional por nueve meses en la instalaciones de
-Siemens, en Karlsruhe.
-
-Instituto Tecnológico de Mexicali, Mexicali, BC — Ingeniería Electrónica
-AGOSTO 1988 - DICIEMBRE 1992
-Me especialicé en sistemas digitales. Me titulé con el proyecto “Expendio
-automático de agua”, en diciembre de 1993. Participé en varias actividades
-estudiantiles y competencias. Formé parte del club de atletismo. 
 
 ## Habilidades
 
