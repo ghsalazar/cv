@@ -3,7 +3,8 @@
 ## Formación
 
 Doctorado en Ciencias de la Computación
-:	CIC-IPN  
+:	  
+	CIC-IPN  
 	Ciudad de México  
 	AGOSTO 2009 - JUNIO 2013  
 	Mi tesis fue sobre el modelado y control de un manipulador móvil
