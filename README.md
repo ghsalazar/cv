@@ -4,6 +4,8 @@
 ![](https://github.com/images/icons/emoji/unicode/1f1f2-1f1fd.png){width="1em"}
 
 
+ <img href="https://github.com/images/icons/emoji/unicode/1f1f2-1f1fd.png" style="width: 1em;" />
+
 [Email](mailto:ghsalazar@ipn.mx) /
 [Website](https://ghsalazar.github.io/) /
 [LinkedIn](https://www.linkedin.com/in/ghsalazar/) /
