@@ -3,10 +3,11 @@
 ## Formación
 
 AGOSTO 2009--JUNIO 2013
-:	Doctorado en Ciencias de la Computación    
-Instituto Politécnico Nacional  
-Centro de Investigación en Computación  
-Ciudad de México  
+:	  
+	Doctorado en Ciencias de la Computación    
+	Instituto Politécnico Nacional  
+	Centro de Investigación en Computación  
+	Ciudad de México  
 
 > Mi tesis fue sobre el modelado y control de un manipulador móvil
 > en el espacio de la tarea. Desarrollé un algoritmo para obtener el
