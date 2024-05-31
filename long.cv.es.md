@@ -13,44 +13,35 @@
 	  que incluyó la interfaz con los sensores y actuadores a través de una
 	  red de cómputo.
 
-**CIC-IPN**, Ciudad de México
---- *Doctorado en Ciencias de la Computación*  
-AGOSTO 2009 - JUNIO 2013  
-Mi tesis fue sobre el modelado y control de un manipulador móvil
-en el espacio de la tarea. Desarrollé un algoritmo para obtener el
-comportamiento dinámico de dicho manipulador, por medio de una extensión
-al algoritmo de Newton-Euler. También programé los controladores
-para el manipulador móvil, que incluyó la interfaz con los sensores
-y actuadores a través de una red de cómputo.
 
-**Centro de Investigación y Estudios Avanzado del IPN**,
-Ciudad de México --- *Maestría en Ciencias en Control Automático*  
-AGOSTO 1997--MAYO 2002  
-Me gradué con la tesis “CN4SID: Un algoritmo de identificación
-subespacial para modelos continuos”, donde desarrollé dicho algoritmo
-para obtener modelos en el espacio del estado de sistemas continuos por
-métodos estadísticos; dentro del trabajo de tesis también programé
-un sistema de control servo-visual para una plataforma  mesa-esfera.
+08.1997--05.2002
+:	Maestría en Ciencias en Control Automático, CINVESTAV-IPN,
+	Ciudad de México
 
-**Fachhochschule Furtwangen**, Schwenningen, Alemania
---- *Estancia técnica de alto nivel*  
-DICIEMBRE 1993 - NOVIEMBRE 1995  
-En esta estancia, primeramente llevé un curso intensivo
-del idioma alemán por ocho meses, en diferentes ciudades de
-Alemania. Posteriormente, tomé varios cursos y participé en un proyecto
-de investigación en la Universidad de Ciencias Aplicadas de Furtwangen
-(Fachhochschule Furtwangen), Campus Schwenningen. Parte de mi labor en
-la Universidad fue la puesta en marcha de una red con el bus H-1 en una
-celda de manufactura flexible. Finalmente, desarrollé una práctica
-profesional por nueve meses en la instalaciones de Siemens, en Karlsruhe.
+	- Desarrollé un algoritmo de identificación subespacial
+	  para modelos continuos.
+	- Desarrollé un sistema de control servo-visual para una plataforma
+ 	  mesa-esfera.
 
-**Instituto Tecnológico de Mexicali**, Mexicali, BC
---- *Ingeniería Electrónica*  
-AGOSTO 1988 - DICIEMBRE 1992  
-Me especialicé en sistemas digitales. Me titulé con el proyecto
-“Expendio automático de agua”, en diciembre de 1993. Participé en
-varias actividades estudiantiles y competencias. Formé parte del club
-de atletismo.
+12.1993--11.1995
+:	Estancia técnica de alto nivel  
+	*Fachhochschule* Furtwangen, Schwenningen, Alemania
+
+	- Llevé un curso intensivo del idioma alemán por ocho meses,
+	  en diferentes ciudades de Alemania.
+	- Tomé varios cursos
+	- Participé en la puesta en marcha de una red con el bus H-1
+	  en una celda de manufactura flexible.
+	- Desarrollé una práctica profesional por nueve meses en la
+	  instalaciones de Siemens, en Karlsruhe.
+
+08.1988--12.1992  
+:	Ingeniería Electrónica, Instituto Tecnológico de Mexicali, Mexicali, BC
+	- Especialidad sistemas digitales.
+	- Me titulé con el proyecto “Expendio automático de agua”,
+	  en diciembre de 1993.r
+	- Participé en varias actividades estudiantiles y competencias.
+	- Formé parte del club de atletismo.
 
 ## Experiencia profesional
 
