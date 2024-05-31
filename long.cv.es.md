@@ -24,8 +24,8 @@
  	  mesa-esfera.
 
 12.1993--11.1995
-:	Estancia técnica de alto nivel  
-	*Fachhochschule* Furtwangen, Schwenningen, Alemania
+:	Estancia técnica de alto nivel, *Fachhochschule* Furtwangen,r
+i	Schwenningen, Alemania
 
 	- Llevé un curso intensivo del idioma alemán por ocho meses,
 	  en diferentes ciudades de Alemania.
