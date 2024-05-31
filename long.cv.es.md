@@ -2,8 +2,7 @@
 
 ## Formación
 
-### Doctorado en Ciencias de la Computación
-
+**Doctorado en Ciencias de la Computación**  
 Instituto Politécnico Nacional  
 Centro de Investigación en Computación  
 Ciudad de México  
