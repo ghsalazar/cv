@@ -5,7 +5,7 @@
 UPIITA-IPN,
 :	Ciudad de México — Docente de Tiempo Completo  
 	NOVIEMBRE 2000 - PRESENTE  
-
+	  
         Soy Docente Titular “C” de Tiempo Completo en la
         carrera de Ingeniería Mecatrónica, de la Unidad Profesional
         Interdisciplinaria en Ingeniería y Tecnologías Avanzadas del
