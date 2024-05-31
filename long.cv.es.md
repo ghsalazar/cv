@@ -123,29 +123,26 @@ XX.20XX--XX.20XX
 
 ## Habilidades
 
-Programación de sistemas embebidos.
-:	Procesadores AVR, arm Cortex-M0 y Cortex-M4,  
-	Diversas plataformas,  
-	Lenguajes C, C++ y ensamblador.
+Programación de sistemas embebidos
+:	- Procesadores AVR, arm Cortex-M0 y Cortex-M4.
+	- Diversas plataformas.
+	- Lenguajes C, C++ y ensamblador.
 
-Programación de robots.
-:	Con diferentes sistemas operativos y lenguajes de programación,
-	que incluyen C, Fortran, Python, JavaScript y Matlab, además
-	de desarrollar algunos lenguajes para controlar los sensores y
-	actuadores por medio de Bison, Flex y JavaScript.
+Programación de robots
+:	- Con diferentes sistemas operativos y lenguajes de programación,
+	- Lenguajes usados: C, Fortran, Python, JavaScript y Matlab.
+	- Desarrollo algunos lenguajes para controlar los sensores y
+	  actuadores por medio de Bison, Flex y JavaScript.
 
-Programación en sistemas de cómputo numérico.
-:	Para el procesamiento digital de señales, con aplicaciones
-	a sistemas de control automático. Ejemplos son el modelado
-	numérico de fenómenos, identificación de sistema e
-	implementación de controladores, por medio de MATLAB, Python,
-	Fortran y C++.
-
-Programación de sistemas concurrentes y distribuidos.
-:	En el sistema operativo Linux y en el lenguaje JavaScript.
+Programación en sistemas de cómputo numérico
+:	- Procesamiento digital de señales, con aplicaciones
+	  a sistemas de control automático.
+	- Ejemplos son el modelado numérico de fenómenos,
+	  identificación de sistema e implementación de controladores.
+	- Lenguajes: MATLAB, Python, Fortran C y C++.
 
 Programación de aplicaciones web.
-:	Para la enseñanza de realidad virtual por medio de JavaScript.
+:	- Para la enseñanza de realidad virtual por medio de JavaScript.
 
 Idiomas.
 :	Español, inglés y alemán.
