@@ -97,30 +97,36 @@ XX.20XX--XX.20XX
 	- Me encargué de coordinar las actividades desarrolladas en dicho
 	  laboratorio.
 
-**UPIBI-IPN**, Ciudad de México --- *Docente Asignatura*  
-FEBRERO 1999 - NOVIEMBRE 2000  
-Impartí las asignaturas de Programación, Métodos Numéricos y Optimización. 
+02.1999--11.2000  
+:	Docente Asignatura, UPIBI-IPN, Ciudad de México
 
-**L-N Safety Glass**, Mexicali, BC --- *Ingeniero DIseñador*  
-FEBRUARY 1996 - MAY 1997  
-Mi principal función era el diseño e implementación de sistemas de
-automatización para procesos de manufactura. Entre los equipos que
-especificaba se encontraban controles lógicos programables (PLC),
-interfaces humano-máquina y controladores para procesos. También
-supervisaba la instalación y puesta en marcha de equipo y máquinas.
+	- Impartí las asignaturas de Programación, Métodos Numéricos y
+	  Optimización. 
 
-**Gaseosas S.A. de C.V.**, Mexicali, BC --- *Técnico en Mantenimiento*  
-JUNIO 1992 - DICIEMBRE 1993  
-Mis principales tareas era el mantenimiento electrónico de los sistemas de
-automatización. También participé en la instalación de una línea de
-embotellado en la planta.
+02.1996--05.1997
+:	Ingeniero DIseñador, L-N Safety Glass, Mexicali, BC
+
+	- Diseñé e implementé de sistemas de automatización para procesos
+	  de manufactura.
+	- Entre los equipos que especificaba se encontraban controles
+	  lógicos programables (PLC), interfaces humano-máquina, y
+	  controladores para procesos.
+	- Supervisé la instalación y puesta en marcha de equipo y máquinas.
+
+06.1992--12.1993  
+:	Técnico en Mantenimiento, Gaseosas S.A. de C.V., Mexicali, BC
+
+	- Mis principales tareas era el mantenimiento electrónico der
+	  los sistemas de automatización.
+	- También participé en la instalación de una línea de
+	  embotellado en la planta.
 
 ## Habilidades
 
 Programación de sistemas embebidos.
-:	Con los procesadores AVR, arm Cortex-M0 y Cortex-M4, así
-	como diversas tarjetas, por medio de los lenguajes C, C++
-	y ensamblador.
+:	Procesadores AVR, arm Cortex-M0 y Cortex-M4,  
+	Diversas plataformas,  
+	Lenguajes C, C++ y ensamblador.
 
 Programación de robots.
 :	Con diferentes sistemas operativos y lenguajes de programación,
