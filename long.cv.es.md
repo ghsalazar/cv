@@ -2,8 +2,8 @@
 
 ## Experiencia profesional
 
-**UPIITA-IPN**, Ciudad de México --— *Docente de Tiempo Completo*  
-NOVIEMBRE 2000 - PRESENTE  
+**UPIITA-IPN**, Ciudad de México--—*Docente de Tiempo Completo*  
+NOVIEMBRE 2000--PRESENTE  
 Soy Docente Titular “C” de Tiempo Completo en la
 carrera de Ingeniería Mecatrónica, de la Unidad Profesional
 Interdisciplinaria en Ingeniería y Tecnologías Avanzadas del
@@ -11,16 +11,17 @@ IPN (UPIITA-IPN). Las unidades de aprendizaje que recientemente
 he impartido son Control de Máquinas Eléctricas y Procesador
 Digital de Señales.
 
-UPIITA-IPN, Ciudad de México — Coordinador de Tecnologías Avanzadas
-ENERO 2018 - JUNIO 2018
-Me desempeñé como encargado del Departamento de Tecnologías Avanzadas, por
-medio del nombramiento de coordinador. Entre las funciones desarrolladas se
-tenían la coordinación de las actividades académicas correspondientes al
-departamento, la planeación de los horarios para el semestre 2018-2, y
-organizar las presentaciones de los trabajos terminales correspondientes.
+**UPIITA-IPN**, Ciudad de México---*Coordinador de Tecnologías Avanzadas*  
+ENERO 2018--JUNIO 2018  
+Me desempeñé como encargado del Departamento de Tecnologías
+Avanzadas, por medio del nombramiento de coordinador. Entre las funciones
+desarrolladas se tenían la coordinación de las actividades académicas
+correspondientes al departamento, la planeación de los horarios para
+el semestre 2018-2, y organizar las presentaciones de los trabajos
+terminales correspondientes.
 
-UPIITA-IPN, Ciudad de México — Presidente de Academia
-SEPTIEMBRE 2015 - DICIEMBRE 2017
+**UPIITA-IPN**, Ciudad de México---Presidente de Academia  
+SEPTIEMBRE 2015 - DICIEMBRE 2017  
 Una de mis principales funciones fue apoyar al Departamento de Tecnologías
 Avanzadas en la coordinación de las actividades académicas de la Academia
 de Mecatrónica.
