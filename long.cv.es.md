@@ -116,28 +116,24 @@ Programación de sistemas embebidos.
 	y ensamblador.
 
 Programación de robots.
-	Con diferentes sistemas operativos y lenguajes de programación,
+:	Con diferentes sistemas operativos y lenguajes de programación,
 	que incluyen C, Fortran, Python, JavaScript y Matlab, además
 	de desarrollar algunos lenguajes para controlar los sensores y
 	actuadores por medio de Bison, Flex y JavaScript.
 
-Programación en sistemas de cómputo simbólico, para modelar diferentes
-fenómenos, desde motores eléctricos hasta robots, por medio de MAXIMA y
-SageMath.
+Programación en sistemas de cómputo numérico.
+:	para el procesamiento digital de señales, con aplicaciones
+	a sistemas de control automático. Ejemplos son el modelado
+	numérico de fenómenos, identificación de sistema e
+	implementación de controladores, por medio de MATLAB, Python,
+	Fortran y C++.
 
-Programación en sistemas de cómputo numérico, para el procesamiento digital
-de señales, con aplicaciones a sistemas de control automático. Ejemplos son
-el modelado numérico de fenómenos, identificación de sistema e
-implementación de controladores, por medio de MATLAB, Python, Fortran y
-C++.
+Programación de sistemas concurrentes y distribuidos.
+	en el sistema operativo Linux y en el lenguaje JavaScript.
 
-Programación de sistemas concurrentes y distribuidos, en el sistema
-operativo Linux y en el lenguaje JavaScript.
+Programación de aplicaciones web.
+:	para la enseñanza de realidad virtual por medio de JavaScript.
 
-Programación de aplicaciones web, para la enseñanza de realidad virtual por
-medio de JavaScript.
-
-## Idiomas
-
-Español, inglés y alemán.
+Idiomas.
+:	Español, inglés y alemán.
 
