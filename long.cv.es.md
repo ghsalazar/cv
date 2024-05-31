@@ -2,6 +2,17 @@
 
 ## Formación
 
+Doctorado en Ciencias de la Computación
+:	CIC-IPN  
+	Ciudad de México  
+	AGOSTO 2009 - JUNIO 2013  
+	Mi tesis fue sobre el modelado y control de un manipulador móvil
+	en el espacio de la tarea. Desarrollé un algoritmo para obtener el
+	comportamiento dinámico de dicho manipulador, por medio de una extensión
+	al algoritmo de Newton-Euler. También programé los controladores
+	para el manipulador móvil, que incluyó la interfaz con los sensores
+	y actuadores a través de una red de cómputo.
+
 **CIC-IPN**, Ciudad de México
 --- *Doctorado en Ciencias de la Computación*  
 AGOSTO 2009 - JUNIO 2013  
