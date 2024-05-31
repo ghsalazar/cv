@@ -78,46 +78,48 @@ Maestría en Tecnología Avanzada del Instituto, así como obtener que
 la sede se incorporará al Programa Nacional de Posgrado de Calidad con
 dicha maestría.
 
-UPIITA-IPN, Ciudad de México — Coordinador de Estudios de Posgrado
-FEBRERO 2018 - JUNIO 2018
+**UPIITA-IPN**, Ciudad de México --- *Coordinador de Estudios de Posgrado*
+FEBRERO 2018 - JUNIO 2018  
 Participé en el desarrollo de varios programas de posgrado del Instituto,
-como la Maestría en Manufactura y la Maestría en Aeronáutica, Mi principal
-logro fue la creación de la Sección de Estudios de Posgrado e Investigación
-de la Unidad.
+como la Maestría en Manufactura y la Maestría en Aeronáutica, Mi
+principal logro fue la creación de la Sección de Estudios de Posgrado
+e Investigación de la Unidad.
 
-UPIITA-IPN, Ciudad de México — Jefe del Laboratorio CIM
-FEBRERO 2018 - JUNIO 2018
+**UPIITA-IPN**, Ciudad de México --- *Jefe del Laboratorio CIM*  
+FEBRERO 2018 - JUNIO 2018  
 Me encargué de coordinar las actividades desarrolladas en dicho
 laboratorio.
 
-UPIBI-IPN, Ciudad de México — Docente Asignatura
-FEBRERO 1999 - NOVIEMBRE 2000
+**UPIBI-IPN**, Ciudad de México --- *Docente Asignatura*  
+FEBRERO 1999 - NOVIEMBRE 2000  
 Impartí las asignaturas de Programación, Métodos Numéricos y Optimización. 
 
-L-N Safety Glass, Mexicali, BC — Ingeniero DIseñador
-FEBRUARY 1996 - MAY 1997
+**L-N Safety Glass**, Mexicali, BC --- *Ingeniero DIseñador*  
+FEBRUARY 1996 - MAY 1997  
 Mi principal función era el diseño e implementación de sistemas de
 automatización para procesos de manufactura. Entre los equipos que
 especificaba se encontraban controles lógicos programables (PLC),
 interfaces humano-máquina y controladores para procesos. También
 supervisaba la instalación y puesta en marcha de equipo y máquinas.
 
-Gaseosas S.A. de C.V., Mexicali, BC — Técnico en Mantenimiento
-JUNIO 1992 - DICIEMBRE 1993
+**Gaseosas S.A. de C.V.**, Mexicali, BC --- *Técnico en Mantenimiento*  
+JUNIO 1992 - DICIEMBRE 1993  
 Mis principales tareas era el mantenimiento electrónico de los sistemas de
 automatización. También participé en la instalación de una línea de
 embotellado en la planta.
 
 ## Habilidades
 
-Programación de sistemas embebidos, para los procesadores AVR, arm Cortex-M0
-y Cortex-M4, así como diversas tarjetas, por medio de los lenguajes C, C++
-y ensamblador.
+Programación de sistemas embebidos.
+:	Con los procesadores AVR, arm Cortex-M0 y Cortex-M4, así
+	como diversas tarjetas, por medio de los lenguajes C, C++
+	y ensamblador.
 
-Programación de robots, bajo diferentes sistemas operativos y lenguajes de
-programación, que incluyen C, Fortran, Python, JavaScript y Matlab, además
-de desarrollar algunos lenguajes para controlar los sensores y actuadores
-por medio de Bison, Flex y JavaScript.
+Programación de robots.
+	Con diferentes sistemas operativos y lenguajes de programación,
+	que incluyen C, Fortran, Python, JavaScript y Matlab, además
+	de desarrollar algunos lenguajes para controlar los sensores y
+	actuadores por medio de Bison, Flex y JavaScript.
 
 Programación en sistemas de cómputo simbólico, para modelar diferentes
 fenómenos, desde motores eléctricos hasta robots, por medio de MAXIMA y
