@@ -13,7 +13,7 @@ para el manipulador móvil, que incluyó la interfaz con los sensores
 y actuadores a través de una red de cómputo.
 
 **Centro de Investigación y Estudios Avanzado del IPN**,
-Ciudad de México---*Maestría en Ciencias en Control Automático*  
+Ciudad de México --- *Maestría en Ciencias en Control Automático*  
 AGOSTO 1997--MAYO 2002  
 Me gradué con la tesis “CN4SID: Un algoritmo de identificación
 subespacial para modelos continuos”, donde desarrollé dicho algoritmo
