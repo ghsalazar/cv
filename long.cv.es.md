@@ -1,4 +1,4 @@
-# Gaston Hugo Salazar Silva
+# Gastón Hugo Salazar Silva
 
 ## Formación
 
@@ -104,7 +104,7 @@ XX.20XX--XX.20XX
 	  Optimización. 
 
 02.1996--05.1997
-:	Ingeniero DIseñador, L-N Safety Glass, Mexicali, BC
+:	Ingeniero Diseñador, L-N Safety Glass, Mexicali, BC
 
 	- Diseñé e implementé de sistemas de automatización para procesos
 	  de manufactura.
@@ -130,7 +130,7 @@ Programación de sistemas embebidos
 
 Programación de robots
 :	- Con diferentes sistemas operativos y lenguajes de programación,
-	- Lenguajes usados: C, Fortran, Python, JavaScript y Matlab.
+	- Lenguajes usados: C, Fortran, Python, JavaScript y MATLAB.
 	- Desarrollo algunos lenguajes para controlar los sensores y
 	  actuadores por medio de Bison, Flex y JavaScript.
 
