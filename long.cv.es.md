@@ -33,15 +33,18 @@ la Universidad fue la puesta en marcha de una red con el bus H-1 en una
 celda de manufactura flexible. Finalmente, desarrollé una práctica
 profesional por nueve meses en la instalaciones de Siemens, en Karlsruhe.
 
-Instituto Tecnológico de Mexicali, Mexicali, BC — Ingeniería Electrónica
-AGOSTO 1988 - DICIEMBRE 1992
-Me especialicé en sistemas digitales. Me titulé con el proyecto “Expendio
-automático de agua”, en diciembre de 1993. Participé en varias actividades
-estudiantiles y competencias. Formé parte del club de atletismo. 
+**Instituto Tecnológico de Mexicali**, Mexicali, BC
+--- *Ingeniería Electrónica*  
+AGOSTO 1988 - DICIEMBRE 1992  
+Me especialicé en sistemas digitales. Me titulé con el proyecto
+“Expendio automático de agua”, en diciembre de 1993. Participé en
+varias actividades estudiantiles y competencias. Formé parte del club
+de atletismo.
 
 ## Experiencia profesional
 
-**UPIITA-IPN**, Ciudad de México--—*Docente de Tiempo Completo*  
+**UPIITA-IPN**, Ciudad de México
+--— *Docente de Tiempo Completo*  
 NOVIEMBRE 2000--PRESENTE  
 Soy Docente Titular “C” de Tiempo Completo en la
 carrera de Ingeniería Mecatrónica, de la Unidad Profesional
@@ -50,7 +53,7 @@ IPN (UPIITA-IPN). Las unidades de aprendizaje que recientemente
 he impartido son Control de Máquinas Eléctricas y Procesador
 Digital de Señales.
 
-**UPIITA-IPN**, Ciudad de México---*Coordinador de Tecnologías Avanzadas*  
+**UPIITA-IPN**, Ciudad de México --- *Coordinador de Tecnologías Avanzadas*  
 ENERO 2018--JUNIO 2018  
 Me desempeñé como encargado del Departamento de Tecnologías
 Avanzadas, por medio del nombramiento de coordinador. Entre las funciones
@@ -59,20 +62,21 @@ correspondientes al departamento, la planeación de los horarios para
 el semestre 2018-2, y organizar las presentaciones de los trabajos
 terminales correspondientes.
 
-**UPIITA-IPN**, Ciudad de México---Presidente de Academia  
+**UPIITA-IPN**, Ciudad de México --- *Presidente de Academia*  
 SEPTIEMBRE 2015 - DICIEMBRE 2017  
 Una de mis principales funciones fue apoyar al Departamento de Tecnologías
 Avanzadas en la coordinación de las actividades académicas de la Academia
 de Mecatrónica.
 
-UPIITA-IPN, Ciudad de México — Encargado de la Sección de Estudios de
-Posgrado e Investigación
-FEBRERO 2006 - OCTUBRE 2009
-Me desempeñé como el encargado de la Sección de Estudios de Posgrado e
-Investigación. Entre mis principales logros fue conseguir la autorización
-para que la Unidad pudiera participar como sede de la Maestría en
-Tecnología Avanzada del Instituto, así como obtener que la sede se
-incorporará al Programa Nacional de Posgrado de Calidad con dicha maestría.
+**UPIITA-IPN**, Ciudad de México --- *Encargado de la Sección de Estudios de
+Posgrado e Investigación*  
+FEBRERO 2006 - OCTUBRE 2009  
+Me desempeñé como el encargado de la Sección de Estudios de
+Posgrado e Investigación. Entre mis principales logros fue conseguir
+la autorización para que la Unidad pudiera participar como sede de la
+Maestría en Tecnología Avanzada del Instituto, así como obtener que
+la sede se incorporará al Programa Nacional de Posgrado de Calidad con
+dicha maestría.
 
 UPIITA-IPN, Ciudad de México — Coordinador de Estudios de Posgrado
 FEBRERO 2018 - JUNIO 2018
@@ -106,7 +110,7 @@ embotellado en la planta.
 
 ## Habilidades
 
-Programación de sistemas embebidos, para los procesador AVR, arm Cortex-M0
+Programación de sistemas embebidos, para los procesadores AVR, arm Cortex-M0
 y Cortex-M4, así como diversas tarjetas, por medio de los lenguajes C, C++
 y ensamblador.
 
