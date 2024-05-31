@@ -129,21 +129,6 @@ operativo Linux y en el lenguaje JavaScript.
 Programación de aplicaciones web, para la enseñanza de realidad virtual por
 medio de JavaScript.
 
-## Becas y estímulos
-
-Estímulo al Desempeño Docente del Instituto Politécnico Nacional, desde
-2014.
-
-Beca de Exclusividad de la Comisión de Operación y Fomento de Actividades
-Académicas del IPN, desde 2014.
-
-Beca COTEBAL de 2009 a 2013,
-
-Beca CONACyT de 1997 a 1999
-
-Beca para Estancia Técnica de Alto Nivel, del Gobierno Federal Alemán, de
-diciembre 1993 a noviembre 1995.
-
 ## Idiomas
 
 Español, inglés y alemán.
