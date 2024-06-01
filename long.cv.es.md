@@ -161,7 +161,7 @@
 
 	- Realicé el mantenimiento de sistemas de automatización para la
 	  buena operación de la planta.
-	- Programé contraloadores lógicos programables para automatizar
+	- Programé controladores lógicos programables para automatizar
 	  procesos con diagramas de escalera.
 	- Participé en la instalación de una línea de embotellado en
 	  para el embotellado de refresco con envase PRB.
