@@ -2,8 +2,9 @@
 
 ## Formación
 
-08.2009--07.2013
-:	Doctorado en Ciencias de la Computación, CIC-IPN, Ciudad de México
+2009--2013
+:	Doctorado en Ciencias de la Computación  
+	CIC-IPN, Ciudad de México
 
 	- Adapté el algoritmo de Newton--Euler para modelar manipuladores
 	  móviles con restricciones no holónomas.
@@ -16,9 +17,9 @@
 	- Implementé el sistema de control para el manipulador móvil.
 
 
-08.1997--05.2002
-:	Maestría en Ciencias en Control Automático, CINVESTAV-IPN,
-	Ciudad de México
+1997--2002
+:	Maestría en Ciencias en Control Automático  
+	CINVESTAV-IPN, Ciudad de México
 
 	- Desarrollé un algoritmo de identificación subespacial
 	  para modelos continuos.
@@ -28,9 +29,9 @@
 	- Implementé, también, un simulador de robots para la enseñanza por
 	  medio de applets en Java.
 
-12.1993--11.1995
-:	Estancia técnica de alto nivel, *Fachhochschule* Furtwangen,
-	Schwenningen, Alemania
+1993--1995
+:	Estancia técnica de alto nivel  
+	*Fachhochschule* Furtwangen, Schwenningen, Alemania
 
 	- Demostré mis competencias en el idioma alemán después de
 	  un curso intensivo del idioma alemán y exámenes.
@@ -52,7 +53,7 @@
 	- Desarrollé la planificación de tiempos de producción para el
 	  nuevo sistema.
 
-08.1988--12.1992  
+1988--1992  
 :	Ingeniería Electrónica  
 	Instituto Tecnológico de Mexicali, Mexicali, BC
 
@@ -71,8 +72,9 @@
 
 ## Experiencia profesional
 
-11.2000--PRESENTE
-:	Docente de Tiempo Completo, UPIITA-IPN, Ciudad de México
+2000--PRESENTE
+:	Docente de Tiempo Completo  
+	UPIITA-IPN, Ciudad de México
 
 	- Tengo la plaza de Docente Titular “C” de Tiempo Completo en la
 	  carrera de Ingeniería Mecatrónica
@@ -81,8 +83,9 @@
 	- Diseñé planes de estudio para diferentes unidades de aprendizaje
 	  para los niverle de licenciatura y posgrado.
 
-01.2018--06.2018
-:	Coordinador de Tecnologías Avanzadas, UPIITA-IPN, Ciudad de México
+2018
+:	Coordinador de Tecnologías Avanzadas  
+	UPIITA-IPN, Ciudad de México
 
 	- Actué como encargado del Departamento de Tecnologías
 	  Avanzadas.
@@ -91,13 +94,14 @@
 	  de aprendizaje correspondientes al departamento.
 	- Organicé las presentaciones de los proyectos de titulación.
 
-09.2015--12.2017
-:	Presidente de Academia, UPIITA-IPN, Ciudad de México
+2015--2017
+:	Presidente de Academiar  
+	UPIITA-IPN, Ciudad de México
 
 	- Coordiné las actividades académicas de la Academia de Mecatrónica.
 
-02.2006--10.2009
-:	Encargado de la Sección de Estudios de Posgrado e Investigación,
+2006--2009
+:	Encargado de la Sección de Estudios de Posgrado e Investigación  
 	UPIITA-IPN, Ciudad de México
 
 	- Tramité la autorización ante el Colegio de Posgrado del IPN para
@@ -106,8 +110,9 @@
 	- Tramité la incorporación de la maestría al Programa Nacional
 	  de Posgrado de Calidad.
 
-XX.2004--01.2006
-:	Coordinador de Estudios de Posgrado, UPIITA-IPN, Ciudad de México
+2004--2006
+:	Coordinador de Estudios de Posgrado  
+i	UPIITA-IPN, Ciudad de México
 
 	- Participé en el desarrollo de varios programas de posgrado del
 	  Instituto Politécnico Nacional, como la Maestría en Manufactura
@@ -115,20 +120,23 @@ XX.2004--01.2006
 	- Desarrollé el plan para la creación de la Sección de Estudios
 	  de Posgrado e Investigación de la UPIITA.
 
-XX.20XX--XX.20XX
-:	Jefe del Laboratorio CIM, UPIITA-IPN, Ciudad de México
+2002--2004
+:	Jefe del Laboratorio CIM  
+	UPIITA-IPN, Ciudad de México
 
 	- Coordiné las actividades desarrolladas en dicho
 	  laboratorio.
 
-02.1999--11.2000  
-:	Docente Asignatura, UPIBI-IPN, Ciudad de México
+1999--2000  
+:	Docente Asignatura  
+	UPIBI-IPN, Ciudad de México
 
 	- Enseñé las asignaturas de Programación, Métodos Numéricos y
 	  Optimización. 
 
-02.1996--05.1997
-:	Ingeniero Diseñador, L-N Safety Glass, Mexicali, BC
+1996--1997
+:	Ingeniero Diseñador  
+	L-N Safety Glass, Mexicali, BC
 
 	- Diseñé e implementé de sistemas de automatización para procesos
 	  de manufactura.
@@ -137,8 +145,9 @@ XX.20XX--XX.20XX
 	  controladores para procesos.
 	- Supervisé la instalación y puesta en marcha de equipo y máquinas.
 
-06.1992--12.1993  
-:	Técnico en Mantenimiento, Gaseosas S.A. de C.V., Mexicali, BC
+1992--1993  
+:	Técnico en Mantenimiento  
+i	Gaseosas S.A. de C.V., Mexicali, BC
 
 	- Realicé el mantenimiento de sistemas de automatización para la
 	  buena operación de la planta.
