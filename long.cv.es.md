@@ -5,13 +5,15 @@
 08.2009--07.2013
 :	Doctorado en Ciencias de la Computación, CIC-IPN, Ciudad de México
 
-	- Modelado y control de un manipulador móvil en el espacio de la tarea.
-	- Desarrollé un algoritmo para obtener el comportamiento dinámico
-	  de dicho manipulador, por medio de una extensión al algoritmo de
-	  Newton-Euler.
-	- Programé los controladores para el manipulador móvil,
-	  que incluyó la interfaz con los sensores y actuadores a través de una
-	  red de cómputo.
+	- Adapté el algoritmo de Newton--Euler para modelar manipuladores
+	  móviles.
+	- Elaboré un sistema de control para manipuladores móviles en
+	  el espacio de la tarea.
+	- Integré un manipulador móvil con distintas plataformas para
+	  probar los algoritmos desarrollados. 
+	- Programé lenguajes de comando para controlar sensores y
+	  actuadores a través de una red de cómputo.
+	- Implementé el sistema de control para el manipulador móvil.
 
 
 08.1997--05.2002
@@ -20,27 +22,43 @@
 
 	- Desarrollé un algoritmo de identificación subespacial
 	  para modelos continuos.
-	- Desarrollé un sistema de control servo-visual para una plataforma
+	- Programé un sistema de control servo-visual para una plataforma
  	  mesa-esfera.
+	- Apliqué el algoritmo para identificar la plataforma mesa--esfera.
+	- Implementé, también, un simulador de robots para la enseñanza por
+	  medio de applets en Java.
 
 12.1993--11.1995
 :	Estancia técnica de alto nivel, *Fachhochschule* Furtwangen,
 	Schwenningen, Alemania
 
-	- Llevé un curso intensivo del idioma alemán por ocho meses,
-	  en diferentes ciudades de Alemania.
-	- Tomé varios cursos
-	- Participé en la puesta en marcha de una red con el bus H-1
-	  en una celda de manufactura flexible.
+	- Demostré mis competencias en el idioma alemán después de
+	  un curso intensivo del idioma alemán y exámenes.
+	- Adquirí competencias en las áreas de automatización, redes
+	  industriales y el sistema operativo Unix por medio de cursos en
+	  la *Fachhocshule*.
+	- Integré, con un compañero, una red industrial para conectar un
+	  robot Kuka con una celda de manufactura flexible por medio con
+	  el bus H-1.
 	- Desarrollé una práctica profesional por nueve meses en la
 	  instalaciones de Siemens, en Karlsruhe.
+	- Resumí los datos de planificación de producción de los
+	  procedimientos antiguos para la fabricación de placas de
+	  circuitos impresos (PCB) en Siemens.
+	- Clasifiqué de los productos de PCB de acuerdo con los sistemas
+	  de clasificación SAP.
+	- Verifiqué los datos obtenidos en un nuevo sistema de Siemens para
+	  la producción de PCB.
+	- Desarrollé la planificación de tiempos de producción para el
+	  nuevo sistema.
 
 08.1988--12.1992  
 :	Ingeniería Electrónica, Instituto Tecnológico de Mexicali, Mexicali, BC
 
 	- Me especialicé en sistemas digitales.
-	- Me titulé con el proyecto “Expendio automático de agua”,
-	  en diciembre de 1993.
+	- Implementé, con un compañero, un expendio automático de agua
+	  para la titulación de la licenciatura por medio de un
+	  sistema embebido en diciembre de 1993.
 	- Participé en varias actividades estudiantiles y competencias.
 	- Formé parte del club de atletismo.
 
@@ -49,38 +67,37 @@
 11.2000--PRESENTE
 :	Docente de Tiempo Completo, UPIITA-IPN, Ciudad de México
 
-	- Docente Titular “C” de Tiempo Completo en la
+	- Tengo la plaza de Docente Titular “C” de Tiempo Completo en la
 	  carrera de Ingeniería Mecatrónica
-	- Recientemente, he impartido las unidades de aprendizaje de 
+	- Enseño, al momento, las unidades de aprendizaje de 
 	  Control de Máquinas Eléctricas y Procesador Digital de Señales.
+	- Diseñé planes de estudio para diferentes unidades de aprendizaje
+	  para los niverle de licenciatura y posgrado.
 
 01.2018--06.2018
 :	Coordinador de Tecnologías Avanzadas, UPIITA-IPN, Ciudad de México
 
-	- Me desempeñé como encargado del Departamento de Tecnologías
-	  Avanzadas, por medio del nombramiento de coordinador.
-	- Entre las funciones desarrolladas se tenían la coordinación
-	  de las actividades académicas correspondientes al departamento,
-	  la planeación de los horarios para el semestre 2018-2, y
-	  organizar las presentaciones de los proyectos de titulación.
+	- Actué como encargado del Departamento de Tecnologías
+	  Avanzadas.
+	- Dirigí las actividades académicas del departamento.
+	- Planifiqué los horarios para el semestre 2018-2 de las unidades
+	  de aprendizaje correspondientes al departamento.
+	- Organicé las presentaciones de los proyectos de titulación.
 
 09.2015--12.2017
 :	Presidente de Academia, UPIITA-IPN, Ciudad de México
-	- Una de mis principales funciones fue apoyar al Departamento
-	  de Tecnologías Avanzadas en la coordinación de las actividades
-	  académicas de la Academia de Mecatrónica.
+
+	- Coordiné las actividades académicas de la Academia de Mecatrónica.
 
 02.2006--10.2009
 :	Encargado de la Sección de Estudios de Posgrado e Investigación,
 	UPIITA-IPN, Ciudad de México
 
-	- Me desempeñé como el encargado de la Sección de Estudios de
-	  Posgrado e Investigación.
-	- Entre mis principales logros fue conseguir la autorización para
+	- Tramité la autorización ante el Colegio de Posgrado del IPN para
 	  que la Unidad pudiera participar como sede de la Maestría en
 	  Tecnología Avanzada del Instituto,
-	- Tramité la incorporación al Programa Nacional de Posgrado de
-	  Calidad con dicha maestría.
+	- Tramité la incorporación de la maestría al Programa Nacional
+	  de Posgrado de Calidad.
 
 XX.2004--01.2006
 :	Coordinador de Estudios de Posgrado, UPIITA-IPN, Ciudad de México
@@ -88,19 +105,19 @@ XX.2004--01.2006
 	- Participé en el desarrollo de varios programas de posgrado del
 	  Instituto Politécnico Nacional, como la Maestría en Manufactura
 	  y la Maestría en Aeronáutica,
-	- Mi principal logro fue la creación de la Sección de Estudios
+	- Desarrollé el plan para la creación de la Sección de Estudios
 	  de Posgrado e Investigación de la UPIITA.
 
 XX.20XX--XX.20XX
 :	Jefe del Laboratorio CIM, UPIITA-IPN, Ciudad de México
 
-	- Me encargué de coordinar las actividades desarrolladas en dicho
+	- Coordiné las actividades desarrolladas en dicho
 	  laboratorio.
 
 02.1999--11.2000  
 :	Docente Asignatura, UPIBI-IPN, Ciudad de México
 
-	- Impartí las asignaturas de Programación, Métodos Numéricos y
+	- Enseñé las asignaturas de Programación, Métodos Numéricos y
 	  Optimización. 
 
 02.1996--05.1997
@@ -124,7 +141,7 @@ XX.20XX--XX.20XX
 ## Habilidades
 
 Programación de sistemas embebidos
-:	- Procesadores AVR, arm Cortex-M0 y Cortex-M4.
+:	- Procesadores AVR, ARM Cortex-M0 y Cortex-M4.
 	- Diversas plataformas.
 	- Lenguajes C, C++ y ensamblador.
 
@@ -145,5 +162,5 @@ Programación de aplicaciones web.
 :	- Para la enseñanza de realidad virtual por medio de JavaScript.
 
 Idiomas.
-:	Español, inglés y alemán.
+:	- Español, inglés y alemán.
 
