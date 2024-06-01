@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: 💻✒️📄🌟
 description: Gastón H. Salazar Silva's CV
+
+author:
+	name   : "Gastón Hugo Salazar Silva"
+	email  : # optional
+	uri    : "http://ghsalazar.github.io"
+
