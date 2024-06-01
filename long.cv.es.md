@@ -43,15 +43,6 @@
 	  el bus H-1.
 	- Desarrollé una práctica profesional por nueve meses en la
 	  instalaciones de Siemens, en Karlsruhe.
-	- Resumí los datos de planificación de producción de los
-	  procedimientos antiguos para la fabricación de placas de
-	  circuitos impresos (PCB) en Siemens.
-	- Clasifiqué de los productos de PCB de acuerdo con los sistemas
-	  de clasificación SAP.
-	- Verifiqué los datos obtenidos en un nuevo sistema de Siemens para
-	  la producción de PCB.
-	- Desarrollé la planificación de tiempos de producción para el
-	  nuevo sistema.
 
 1988--1992  
 :	Ingeniería Electrónica  
@@ -67,12 +58,12 @@
 
 1985–1988
 :	Bachillerato Técnico con Especialidad en Electrónica  
-	Centro de Bachillerato Tecnológico Industrial y de Servicios No.21,
+	Centro de Bachillerato Tecnológico, Industrial y de Servicios No.21,
 	Mexicali, B.C.
 
 ## Experiencia profesional
 
-2000--PRESENTE
+2000--Presente
 :	Docente de Tiempo Completo  
 	UPIITA-IPN, Ciudad de México
 
@@ -80,8 +71,8 @@
 	  carrera de Ingeniería Mecatrónica
 	- Enseño, al momento, las unidades de aprendizaje de 
 	  Control de Máquinas Eléctricas y Procesador Digital de Señales.
-	- Diseñé planes de estudio para diferentes unidades de aprendizaje
-	  para los niverle de licenciatura y posgrado.
+	- Diseñé planes de estudio de diferentes unidades de aprendizaje
+	  para los niveles de licenciatura y posgrado.
 
 2018
 :	Coordinador de Tecnologías Avanzadas  
@@ -95,7 +86,7 @@
 	- Organicé las presentaciones de los proyectos de titulación.
 
 2015--2017
-:	Presidente de Academiar  
+:	Presidente de Academia  
 	UPIITA-IPN, Ciudad de México
 
 	- Coordiné las actividades académicas de la Academia de Mecatrónica.
@@ -105,14 +96,14 @@
 	UPIITA-IPN, Ciudad de México
 
 	- Tramité la autorización ante el Colegio de Posgrado del IPN para
-	  que la Unidad pudiera participar como sede de la Maestría en
+	  que la UPIITA pudiera participar como sede de la Maestría en
 	  Tecnología Avanzada del Instituto,
 	- Tramité la incorporación de la maestría al Programa Nacional
 	  de Posgrado de Calidad.
 
 2004--2006
 :	Coordinador de Estudios de Posgrado  
-i	UPIITA-IPN, Ciudad de México
+	UPIITA-IPN, Ciudad de México
 
 	- Participé en el desarrollo de varios programas de posgrado del
 	  Instituto Politécnico Nacional, como la Maestría en Manufactura
@@ -128,7 +119,7 @@ i	UPIITA-IPN, Ciudad de México
 	  laboratorio.
 
 1999--2000  
-:	Docente Asignatura  
+:	Docente de Asignatura  
 	UPIBI-IPN, Ciudad de México
 
 	- Enseñé las asignaturas de Programación, Métodos Numéricos y
@@ -145,9 +136,23 @@ i	UPIITA-IPN, Ciudad de México
 	  controladores para procesos.
 	- Supervisé la instalación y puesta en marcha de equipo y máquinas.
 
+1995
+:	Practicante  
+	Siemens, Karlsruhe, Alemania
+
+	- Resumí los datos de planificación de producción de los
+	  procedimientos para la fabricación de placas de
+	  circuitos impresos (PCB) en Siemens.
+	- Clasifiqué de los productos de PCB de acuerdo con los sistemas
+	  de clasificación SAP.
+	- Verifiqué los datos obtenidos en un nuevo sistema de Siemens para
+	  la producción de PCB.
+	- Desarrollé la planificación de tiempos de producción para el
+	  nuevo sistema.
+
 1992--1993  
 :	Técnico en Mantenimiento  
-i	Gaseosas S.A. de C.V., Mexicali, BC
+	Gaseosas S.A. de C.V., Mexicali, BC
 
 	- Realicé el mantenimiento de sistemas de automatización para la
 	  buena operación de la planta.
@@ -159,7 +164,7 @@ i	Gaseosas S.A. de C.V., Mexicali, BC
 ## Competencias adicionales
 
 Programación
-:	- Programo sistemas embebido para el procesamiento digital de señales
+:	- Programo sistemas embebidos para el procesamiento digital de señales
 	  en aplicaciones de control automático y aprendizaje automatizado
 	  con los lenguajes C, C++ y ensamblador.
 	- Desarrollo modelos computacionales para aplicaciones de control
