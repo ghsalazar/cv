@@ -8,6 +8,16 @@
 
 ## Formación
 
+2018--2019
+:	Diplomado Institucional para el desarrollo de competencias docentes
+	del autor del Polivirtual  
+	CGFIE-IPN, Ciudad de México
+
+	- Desarrollé guiones para la producción de recursos
+	  didácticos digitales.
+	- Produje dichos recursos didácticos digitales para su aplicación
+	  en clases del IPN por medio de filmacióni, edición de video y Moodle.
+
 2009--2013
 :	Doctorado en Ciencias de la Computación  
 	CIC-IPN, Ciudad de México
