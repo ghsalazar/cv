@@ -17,6 +17,8 @@
 	  didácticos digitales.
 	- Produje dichos recursos didácticos digitales para su aplicación
 	  en clases del IPN por medio de filmacióni, edición de video y Moodle.
+	- Realicé un trabajo de investigación educativa sobre el uso de
+	  laboratorios virtuales en la educación.
 
 2009--2013
 :	Doctorado en Ciencias de la Computación  
