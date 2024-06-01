@@ -140,9 +140,8 @@
 :	Practicante  
 	Siemens, Karlsruhe, Alemania
 
-	- Resumí los datos de planificación de producción de los
-	  procedimientos para la fabricación de placas de
-	  circuitos impresos (PCB) en Siemens.
+	- Resumí los datos de planificación de producción
+	  para la fabricación de placas de circuitos impresos (PCB) en Siemens.
 	- Clasifiqué de los productos de PCB de acuerdo con los sistemas
 	  de clasificación SAP.
 	- Verifiqué los datos obtenidos en un nuevo sistema de Siemens para
