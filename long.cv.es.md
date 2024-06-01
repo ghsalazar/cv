@@ -1,5 +1,11 @@
 # Gastón Hugo Salazar Silva
 
+*Docente de Ingeniería Mecatrónica en el Instituto Politécnico Nacional*
+
+[Website](https://ghsalazar.github.io/) /
+[LinkedIn](https://www.linkedin.com/in/ghsalazar/) /
+[GitHub](https://github.com/ghsalazar/)
+
 ## Formación
 
 2009--2013
