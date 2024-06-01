@@ -6,7 +6,7 @@
 :	Doctorado en Ciencias de la Computación, CIC-IPN, Ciudad de México
 
 	- Adapté el algoritmo de Newton--Euler para modelar manipuladores
-	  móviles.
+	  móviles con restricciones no holónomas.
 	- Elaboré un sistema de control para manipuladores móviles en
 	  el espacio de la tarea.
 	- Integré un manipulador móvil con distintas plataformas para
@@ -36,7 +36,7 @@
 	  un curso intensivo del idioma alemán y exámenes.
 	- Adquirí competencias en las áreas de automatización, redes
 	  industriales y el sistema operativo Unix por medio de cursos en
-	  la *Fachhocshule*.
+	  la *Fachhocshule* Furtwangen.
 	- Integré, con un compañero, una red industrial para conectar un
 	  robot Kuka con una celda de manufactura flexible por medio con
 	  el bus H-1.
@@ -53,14 +53,21 @@
 	  nuevo sistema.
 
 08.1988--12.1992  
-:	Ingeniería Electrónica, Instituto Tecnológico de Mexicali, Mexicali, BC
+:	Ingeniería Electrónica  
+	Instituto Tecnológico de Mexicali, Mexicali, BC
 
 	- Me especialicé en sistemas digitales.
 	- Implementé, con un compañero, un expendio automático de agua
-	  para la titulación de la licenciatura por medio de un
-	  sistema embebido en diciembre de 1993.
+	  para la titulación de la licenciatura
+	  por medio de la opción IV “Diseño o rediseño de equipo, aparato
+	  o maquinaria" en diciembre de 1993.
 	- Participé en varias actividades estudiantiles y competencias.
 	- Formé parte del club de atletismo.
+
+1985–1988
+:	Bachillerato Técnico con Especialidad en Electrónica  
+	Centro de Bachillerato Tecnológico Industrial y de Servicios No.21,
+	Mexicali, B.C.
 
 ## Experiencia profesional
 
@@ -133,34 +140,26 @@ XX.20XX--XX.20XX
 06.1992--12.1993  
 :	Técnico en Mantenimiento, Gaseosas S.A. de C.V., Mexicali, BC
 
-	- Mis principales tareas era el mantenimiento electrónico der
-	  los sistemas de automatización.
-	- También participé en la instalación de una línea de
-	  embotellado en la planta.
+	- Realicé el mantenimiento de sistemas de automatización para la
+	  buena operación de la planta.
+	- Programé contraloadores lógicos programables para automatizar
+	  procesos con diagramas de escalera.
+	- Participé en la instalación de una línea de embotellado en
+	  para el embotellado de refresco con envase PRB.
 
-## Habilidades
+## Competencias adicionales
 
-Programación de sistemas embebidos
-:	- Procesadores AVR, ARM Cortex-M0 y Cortex-M4.
-	- Diversas plataformas.
-	- Lenguajes C, C++ y ensamblador.
-
-Programación de robots
-:	- Con diferentes sistemas operativos y lenguajes de programación,
-	- Lenguajes usados: C, Fortran, Python, JavaScript y MATLAB.
-	- Desarrollo algunos lenguajes para controlar los sensores y
+Programación
+:	- Programo sistemas embebido para el procesamiento digital de señales
+	  en aplicaciones de control automático y aprendizaje automatizado
+	  con los lenguajes C, C++ y ensamblador.
+	- Desarrollo modelos computacionales para aplicaciones de control
+	  en MATLAB/SIMULINK, Python y, en su caso, Fortran.
+	- He desarrollado aplicaciones web para la enseñanza de robótica y
+	  realidad virtual por medio de Java, JavaScript, HTML y CSS.
+	- He desarrollado lenguajes para controlar los sensores y
 	  actuadores por medio de Bison, Flex y JavaScript.
 
-Programación en sistemas de cómputo numérico
-:	- Procesamiento digital de señales, con aplicaciones
-	  a sistemas de control automático.
-	- Ejemplos son el modelado numérico de fenómenos,
-	  identificación de sistema e implementación de controladores.
-	- Lenguajes: MATLAB, Python, Fortran C y C++.
-
-Programación de aplicaciones web.
-:	- Para la enseñanza de realidad virtual por medio de JavaScript.
-
-Idiomas.
-:	- Español, inglés y alemán.
+Idiomas
+:	- Me comunico en español (nativo), inglés (C1) y alemán (B1).
 
