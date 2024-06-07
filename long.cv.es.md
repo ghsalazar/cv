@@ -16,7 +16,7 @@
 	- Desarrollé guiones para la producción de recursos
 	  didácticos digitales.
 	- Produje dichos recursos didácticos digitales para su aplicación
-	  en clases del IPN por medio de filmacióni, edición de video y Moodle.
+	  en clases del IPN por medio de filmación, edición de video y Moodle.
 	- Realicé un trabajo de investigación educativa sobre el uso de
 	  laboratorios virtuales en la educación.
 
