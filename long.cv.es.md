@@ -26,7 +26,7 @@
 
 	- Adapté [el algoritmo de Newton--Euler para modelar
 	  manipuladores móviles con restricciones no
-	  holónomas](https://amca.mx/memorias/amca2013/papers/0068.pdf).
+	  holónomas][salazar:metodo].
 	- Elaboré un [sistema de control para manipuladores móviles en
 	  el espacio de la tarea][salazar:modelado].
 	- Integré un manipulador móvil con distintas plataformas para
@@ -195,4 +195,5 @@ Programación
 Idiomas
 :	- Me comunico en español (nativo), inglés (C1) y alemán (B1).
 
+[salazar:metodo]: https://amca.mx/memorias/amca2013/papers/0068.pdf
 [salazar:modelado]: https://www.scielo.org.mx/scielo.php?pid=S1405-55462012000400004&script=sci_arttext
