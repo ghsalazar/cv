@@ -40,8 +40,8 @@
 :	Maestría en Ciencias en Control Automático  
 	CINVESTAV-IPN, Ciudad de México
 
-	- Desarrollé un algoritmo de identificación subespacial
-	  para modelos continuos.
+	- Desarrollé [un algoritmo de identificación subespacial
+	  para modelos continuos][salazar:conditioning].
 	- Programé un sistema de control servo-visual para una plataforma
  	  mesa-esfera.
 	- Apliqué el algoritmo para identificar la plataforma mesa--esfera.
@@ -197,4 +197,5 @@ Idiomas
 
 [salazar:metodo]: https://amca.mx/memorias/amca2013/papers/0068.pdf
 [salazar:modelado]: https://www.scielo.org.mx/scielo.php?pid=S1405-55462012000400004&script=sci_arttext
+[salazar:conditioning]: https://mtns.math.nd.edu/papers/20141.pdf
 [salazar:enhancing]: https://doi.org/10.1109/ACC.1999.783613
