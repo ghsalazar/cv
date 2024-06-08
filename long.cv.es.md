@@ -24,10 +24,11 @@
 :	Doctorado en Ciencias de la Computación  
 	CIC-IPN, Ciudad de México
 
-	- Adapté el algoritmo de Newton--Euler para modelar manipuladores
-	  móviles con restricciones no holónomas.
-	- Elaboré un sistema de control para manipuladores móviles en
-	  el espacio de la tarea.
+	- Adapté [el algoritmo de Newton--Euler para modelar
+	  manipuladores móviles con restricciones no
+	  holónomas](https://amca.mx/memorias/amca2013/papers/0068.pdf).
+	- Elaboré un [sistema de control para manipuladores móviles en
+	  el espacio de la tarea][salazar:modelado].
 	- Integré un manipulador móvil con distintas plataformas para
 	  probar los algoritmos desarrollados. 
 	- Programé lenguajes de comando para controlar sensores y
@@ -194,3 +195,4 @@ Programación
 Idiomas
 :	- Me comunico en español (nativo), inglés (C1) y alemán (B1).
 
+[salazar:modelado]: https://www.scielo.org.mx/scielo.php?pid=S1405-55462012000400004&script=sci_arttext
